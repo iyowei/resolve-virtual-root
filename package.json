@@ -1,0 +1,33 @@
+{
+  "name": "@iyowei/resolve-virtual-root",
+  "version": "1.0.0",
+  "description": "转换 '~/Development/OpenSource' 虚拟路径为绝对路径。",
+  "main": "resolveVirtualRoot.js",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyowei/resolve-virtual-root.git"
+  },
+  "keywords": [
+    "iyowei"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iyowei/resolve-virtual-root/issues"
+  },
+  "homepage": "https://github.com/iyowei/resolve-virtual-root#readme",
+  "type": "module",
+  "exports": "./resolveVirtualRoot.js",
+  "files": [
+    "resolveVirtualRoot.js"
+  ],
+  "engines": {
+    "node": ">=12.20.0"
+  },
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
+}
