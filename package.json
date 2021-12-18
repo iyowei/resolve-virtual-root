@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "转换 '~/Development/OpenSource' 虚拟路径为绝对路径。",
   "main": "resolveVirtualRoot.js",
-  "scripts": {
-    "preinstall": "npx only-allow pnpm"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iyowei/resolve-virtual-root.git"
