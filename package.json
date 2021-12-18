@@ -1,6 +1,6 @@
 {
   "name": "@iyowei/resolve-virtual-root",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "转换 '~/Development/OpenSource' 虚拟路径为绝对路径。",
   "main": "resolveVirtualRoot.js",
   "scripts": {},
