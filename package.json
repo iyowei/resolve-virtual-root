@@ -1,7 +1,7 @@
 {
   "name": "@iyowei/untildify",
-  "version": "1.0.1",
-  "description": "转换 '~/Development/OpenSource' 虚拟路径为绝对路径。",
+  "version": "1.0.0",
+  "description": "转换 '~/Development/OpenSource' 波浪路径（虚拟路径）为绝对路径。",
   "main": "untildify.js",
   "scripts": {},
   "repository": {
