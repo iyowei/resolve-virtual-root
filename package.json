@@ -1,25 +1,25 @@
 {
-  "name": "@iyowei/resolve-virtual-root",
+  "name": "@iyowei/untildify",
   "version": "1.0.1",
   "description": "转换 '~/Development/OpenSource' 虚拟路径为绝对路径。",
-  "main": "resolveVirtualRoot.js",
+  "main": "untildify.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iyowei/resolve-virtual-root.git"
+    "url": "git+https://github.com/iyowei/untildify.git"
   },
   "keywords": [
     "iyowei"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iyowei/resolve-virtual-root/issues"
+    "url": "https://github.com/iyowei/untildify/issues"
   },
-  "homepage": "https://github.com/iyowei/resolve-virtual-root#readme",
+  "homepage": "https://github.com/iyowei/untildify#readme",
   "type": "module",
-  "exports": "./resolveVirtualRoot.js",
+  "exports": "./untildify.js",
   "files": [
-    "resolveVirtualRoot.js"
+    "untildify.js"
   ],
   "engines": {
     "node": ">=12.20.0"
